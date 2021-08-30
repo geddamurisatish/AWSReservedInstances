@@ -1,19 +1,5 @@
-{
-   "aws":{
+"aws":{
       "role":"aws role",
 	  "region":"aws region",
 	  "warn_time":"# of days which could be used to check for comparison"
-	  },
-   "email": {
-        "host": "IP Address ",
-        "port": port number,
-        "charset": "UTF-8",
-        "senderMailID": "sample@mailProvider.com",
-        "senderName": "SatishGeddamuri",
-        "region": "aws region",
-        "usernameSMTP": "",
-        "passwordSMTP": "",
-		"recipient": ["receiver_email_address@yahoo.com"],
-		"subject": "Reserved Instances audit report"
-    }
-}
+	  }
